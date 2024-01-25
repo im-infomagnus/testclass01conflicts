@@ -1,4 +1,4 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. This is a change.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Another edit that should cause a conflict
 Aenean in diam eu nisl auctor mollis eu at ex.
 Etiam quis enim ac dolor ornare egestas fermentum sit amet tortor.
 Curabitur vitae purus in justo euismod euismod vel ac quam.
